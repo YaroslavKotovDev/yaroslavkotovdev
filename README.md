@@ -24,8 +24,9 @@ I am a skilled full-stack developer with extensive experience in designing, deve
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## Rapidfire 
+
+<br/> 
 
 - 🔭 I’m currently working in [Solution Mentors](https://www.solutionmentors.com)  
   
@@ -34,13 +35,6 @@ I am a skilled full-stack developer with extensive experience in designing, deve
   
 
 - ❓ Ask me about anything related to related technologies  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
