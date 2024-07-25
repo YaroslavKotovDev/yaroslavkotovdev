@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I am a skilled full-stack developer with extensive experience in designing, developing, and deploying complex web applications from scratch. My expertise spans across various technologies, allowing me to create robust, scalable, and user-friendly solutions.  
+I am a skilled frontend developer with extensive experience in designing, developing, and deploying complex web applications from scratch. My expertise spans across various technologies, allowing me to create robust, scalable, and user-friendly solutions.  
   
 
 <br/>  
