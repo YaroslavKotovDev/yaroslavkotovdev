@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I am a skilled frontend developer with extensive experience in designing, developing, and deploying complex web applications from scratch. My expertise spans across various technologies, allowing me to create robust, scalable, and user-friendly solutions.  
+I am a skilled fullstack developer with extensive experience in designing, developing, and deploying complex web applications from scratch. My expertise spans across various technologies, allowing me to create robust, scalable, and user-friendly solutions.  
   
 
 <br/>  
@@ -28,7 +28,7 @@ I am a skilled frontend developer with extensive experience in designing, develo
 
 <br/> 
 
-- 🔭 I’m currently working in [Solution Mentors](https://www.solutionmentors.com)  
+- 🔭 I’m currently working in [FavBet Tech]([https://jobs.dou.ua/companies/favbet-tech])  
   
 
 - 🌱 I’m currently learning AI technologies  
