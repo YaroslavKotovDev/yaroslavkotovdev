@@ -28,7 +28,7 @@ I am a skilled fullstack developer with extensive experience in designing, devel
 
 <br/> 
 
-- 🔭 I’m currently working in [FavBet Tech]([https://jobs.dou.ua/companies/favbet-tech])  
+- 🔭 I’m currently working in [FavBet Tech]([https://favbet.careers/])  
   
 
 - 🌱 I’m currently learning AI technologies  
