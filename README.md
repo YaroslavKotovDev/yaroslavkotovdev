@@ -23,9 +23,6 @@ I am a skilled fullstack developer with extensive experience in designing, devel
 
 <br/>  
 
-
-## Rapidfire 
-
 <br/> 
 
 - 🔭 I’m currently working in [FavBet Tech]([https://favbet.careers/])  
