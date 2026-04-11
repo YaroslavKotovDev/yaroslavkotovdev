@@ -26,7 +26,6 @@ I am a skilled fullstack developer with extensive experience in designing, devel
 - 🌱 I’m currently diving deeper into **AI technologies**
 - 💻 Building and scaling projects like **LeadFlow-Dashboard**
 - 💬 Ask me about **React, Frontend Architecture, or Fullstack Development**
-- ⚡ Fun fact: When I'm not writing code, I'm likely playing CS2 or brainstorming ideas for content creation!
 
 ---
 
