@@ -22,7 +22,6 @@
 
 I am a skilled fullstack developer with extensive experience in designing, developing, and deploying complex web applications from scratch. My expertise spans across various technologies, allowing me to create robust, scalable, and user-friendly solutions.
 
-- 🔭 I’m currently working at **[FavBet Tech](https://favbet.careers/)**
 - 🌱 I’m currently diving deeper into **AI technologies**
 - 💻 Building and scaling projects like **LeadFlow-Dashboard**
 - 💬 Ask me about **React, Frontend Architecture, or Fullstack Development**
